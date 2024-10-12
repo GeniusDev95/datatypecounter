@@ -27,3 +27,4 @@ for(i=0; i<flatArray.length; i++){
 }
 
 console.log("Total number of strings =", countOfStr,"\n","Total number of Numbers =", countOfNum, "\n","Total number of Booleans =", countOfBool, "\n","Total number of Nested Arrays =", countOfObj)
+alert(`In the given Array; \n \n Total number of Strings are ${countOfStr} \n Total number of Numbers are ${countOfNum} \n Total number of Booleans are ${countOfBool} \n Total number of Nested Arrays are ${countOfObj}`)
